@@ -39,7 +39,7 @@ export default function Store() {
     
     const text = `Halo min, saya ingin membeli:\n\n🛒 *Produk:* ${selectedProduct.name}\n⏳ *Durasi:* ${selectedPrice.duration}\n💰 *Harga:* ${selectedPrice.idr} / ${selectedPrice.usd}\n\nApakah masih tersedia?`;
     const encodedText = encodeURIComponent(text);
-    const waUrl = `https://wa.me/6285211527292?text=${encodedText}`;
+    const waUrl = `https://wa.me/6285767113645?text=${encodedText}`;
     
     window.open(waUrl, '_blank');
   };
@@ -101,7 +101,7 @@ export default function Store() {
       {/* Footer */}
       <footer className="mt-16 border-4 border-black bg-white p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] text-center transform hover:-translate-y-1 hover:-translate-x-1 hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all">
         <p className="text-2xl md:text-4xl font-black uppercase font-space tracking-widest">
-          APAKESTORE ©2026
+          ZyyModsOFC ©2026
         </p>
       </footer>
 
