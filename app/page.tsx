@@ -50,7 +50,7 @@ export default function Store() {
       <header className="mb-12 border-4 border-black bg-white p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
         <div>
           <h1 className="text-5xl md:text-7xl font-black uppercase tracking-tighter font-space">
-            APAKESTORE
+            ZyyModsOFC
           </h1>
           <div className="flex items-center gap-2 mt-2 border-t-4 border-black pt-2 w-max">
             <Zap className="w-5 h-5 fill-black" />
