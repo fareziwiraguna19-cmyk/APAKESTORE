@@ -13,7 +13,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'APAKESTORE - Premium Cheats',
+  title: 'ZYYMODSOFFICIAL - Premium Cheats',
   description: 'Premium Cheats & Mods Store',
 };
 
